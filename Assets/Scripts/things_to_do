@@ -1,0 +1,15 @@
+- Add buttons on UI
+- Add particle system
+- Add game over sound
+- Add winning sound
+- Add more levels
+- Add a timer based category.
+Show the user the path for some few seconds and then clear
+Once the solution is cleared, start the timer
+
+bugs to fix
+- nullexception when the quit panel or more hints panel is displayed
+- make top buttons unclickable when game is show count down
+
+- Remove the hove color on next level and replay games button
+- Hide the game over panel and game completed panel when quit game panel is open

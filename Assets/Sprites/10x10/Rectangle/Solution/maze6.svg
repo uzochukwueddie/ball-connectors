@@ -1,0 +1,605 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2018 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="2.30208in" height="2.69387in" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 109.43 128.06"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str2 {stroke:black;stroke-width:0.99;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:2.61313}
+    .str0 {stroke:#FB0501;stroke-width:1.98;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:2.61313}
+    .str1 {stroke:white;stroke-width:1.32;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:2.61313}
+    .fil0 {fill:none}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_2423800806416">
+   <g>
+    <g>
+     <polyline class="fil0 str0" points="4.46,19 0.99,13 4.46,6.99 11.39,6.99 14.86,0.99 21.79,0.99 25.25,6.99 21.79,13 "/>
+    </g>
+    <g>
+     <polyline class="fil0 str0" points="25.25,6.99 32.19,6.99 35.65,0.99 42.59,0.99 46.05,6.99 42.59,13 "/>
+    </g>
+    <g>
+     <polyline class="fil0 str0" points="52.98,6.99 56.45,0.99 63.38,0.99 66.85,6.99 63.38,13 "/>
+    </g>
+    <g>
+     <polyline class="fil0 str0" points="66.85,6.99 73.78,6.99 77.25,0.99 84.18,0.99 87.65,6.99 94.58,6.99 98.05,13 "/>
+    </g>
+    <g>
+     <polyline class="fil0 str0" points="94.58,6.99 98.05,0.99 104.98,0.99 108.44,6.99 104.98,13 "/>
+    </g>
+    <g>
+     <polyline class="fil0 str0" points="4.46,31.01 0.99,25.01 4.46,19 "/>
+    </g>
+    <g>
+     <polyline class="fil0 str0" points="11.39,19 14.86,13 21.79,13 "/>
+    </g>
+    <g>
+     <polyline class="fil0 str0" points="21.79,25.01 25.25,19 32.19,19 35.65,25.01 "/>
+    </g>
+    <g>
+     <line class="fil0 str0" x1="32.19" y1="19" x2="35.65" y2= "13" />
+    </g>
+    <g>
+     <polyline class="fil0 str0" points="42.59,13 46.05,19 42.59,25.01 "/>
+    </g>
+    <g>
+     <polyline class="fil0 str0" points="46.05,19 52.98,19 56.45,25.01 "/>
+    </g>
+    <g>
+     <line class="fil0 str0" x1="52.98" y1="19" x2="56.45" y2= "13" />
+    </g>
+    <g>
+     <polyline class="fil0 str0" points="63.38,13 66.85,19 73.78,19 77.25,25.01 "/>
+    </g>
+    <g>
+     <line class="fil0 str0" x1="73.78" y1="19" x2="77.25" y2= "13" />
+    </g>
+    <g>
+     <polyline class="fil0 str0" points="84.18,13 87.65,19 94.58,19 98.05,25.01 "/>
+    </g>
+    <g>
+     <polyline class="fil0 str0" points="104.98,13 108.44,19 104.98,25.01 "/>
+    </g>
+    <g>
+     <polyline class="fil0 str0" points="4.46,43.02 0.99,37.01 4.46,31.01 11.39,31.01 14.86,25.01 21.79,25.01 "/>
+    </g>
+    <g>
+     <line class="fil0 str0" x1="21.79" y1="37.01" x2="25.25" y2= "31.01" />
+    </g>
+    <g>
+     <line class="fil0 str0" x1="32.19" y1="31.01" x2="35.65" y2= "37.01" />
+    </g>
+    <g>
+     <polyline class="fil0 str0" points="42.59,25.01 46.05,31.01 42.59,37.01 "/>
+    </g>
+    <g>
+     <line class="fil0 str0" x1="52.98" y1="31.01" x2="56.45" y2= "37.01" />
+    </g>
+    <g>
+     <polyline class="fil0 str0" points="56.45,25.01 63.38,25.01 66.85,31.01 63.38,37.01 "/>
+    </g>
+    <g>
+     <polyline class="fil0 str0" points="73.78,31.01 77.25,25.01 84.18,25.01 87.65,31.01 94.58,31.01 98.05,37.01 "/>
+    </g>
+    <g>
+     <polyline class="fil0 str0" points="98.05,25.01 104.98,25.01 108.44,31.01 104.98,37.01 "/>
+    </g>
+    <g>
+     <polyline class="fil0 str0" points="4.46,55.02 0.99,49.02 4.46,43.02 11.39,43.02 14.86,49.02 "/>
+    </g>
+    <g>
+     <polyline class="fil0 str0" points="14.86,37.01 21.79,37.01 25.25,43.02 32.19,43.02 35.65,49.02 "/>
+    </g>
+    <g>
+     <line class="fil0 str0" x1="35.65" y1="37.01" x2="42.59" y2= "37.01" />
+    </g>
+    <g>
+     <polyline class="fil0 str0" points="42.59,49.02 46.05,43.02 52.98,43.02 56.45,49.02 "/>
+    </g>
+    <g>
+     <polyline class="fil0 str0" points="52.98,43.02 56.45,37.01 63.38,37.01 66.85,43.02 73.78,43.02 77.25,37.01 84.18,37.01 "/>
+    </g>
+    <g>
+     <polyline class="fil0 str0" points="84.18,49.02 87.65,43.02 94.58,43.02 98.05,37.01 "/>
+    </g>
+    <g>
+     <polyline class="fil0 str0" points="104.98,37.01 108.44,43.02 104.98,49.02 "/>
+    </g>
+    <g>
+     <polyline class="fil0 str0" points="4.46,67.03 0.99,61.03 4.46,55.02 "/>
+    </g>
+    <g>
+     <polyline class="fil0 str0" points="14.86,61.03 11.39,55.02 14.86,49.02 21.79,49.02 "/>
+    </g>
+    <g>
+     <polyline class="fil0 str0" points="25.25,55.02 32.19,55.02 35.65,61.03 "/>
+    </g>
+    <g>
+     <polyline class="fil0 str0" points="32.19,55.02 35.65,49.02 42.59,49.02 "/>
+    </g>
+    <g>
+     <polyline class="fil0 str0" points="46.05,55.02 52.98,55.02 56.45,61.03 "/>
+    </g>
+    <g>
+     <polyline class="fil0 str0" points="63.38,49.02 66.85,55.02 63.38,61.03 "/>
+    </g>
+    <g>
+     <polyline class="fil0 str0" points="66.85,55.02 73.78,55.02 77.25,49.02 84.18,49.02 87.65,55.02 "/>
+    </g>
+    <g>
+     <polyline class="fil0 str0" points="98.05,61.03 94.58,55.02 98.05,49.02 "/>
+    </g>
+    <g>
+     <polyline class="fil0 str0" points="104.98,49.02 108.44,55.02 104.98,61.03 "/>
+    </g>
+    <g>
+     <polyline class="fil0 str0" points="4.46,79.04 0.99,73.04 4.46,67.03 "/>
+    </g>
+    <g>
+     <polyline class="fil0 str0" points="11.39,67.03 14.86,61.03 21.79,61.03 25.25,67.03 21.79,73.04 "/>
+    </g>
+    <g>
+     <line class="fil0 str0" x1="25.25" y1="67.03" x2="32.19" y2= "67.03" />
+    </g>
+    <g>
+     <polyline class="fil0 str0" points="35.65,61.03 42.59,61.03 46.05,67.03 42.59,73.04 "/>
+    </g>
+    <g>
+     <line class="fil0 str0" x1="46.05" y1="67.03" x2="52.98" y2= "67.03" />
+    </g>
+    <g>
+     <polyline class="fil0 str0" points="56.45,61.03 63.38,61.03 66.85,67.03 63.38,73.04 "/>
+    </g>
+    <g>
+     <polyline class="fil0 str0" points="66.85,67.03 73.78,67.03 77.25,73.04 "/>
+    </g>
+    <g>
+     <polyline class="fil0 str0" points="73.78,67.03 77.25,61.03 84.18,61.03 "/>
+    </g>
+    <g>
+     <polyline class="fil0 str0" points="84.18,73.04 87.65,67.03 94.58,67.03 98.05,61.03 "/>
+    </g>
+    <g>
+     <polyline class="fil0 str0" points="104.98,61.03 108.44,67.03 104.98,73.04 "/>
+    </g>
+    <g>
+     <polyline class="fil0 str0" points="4.46,91.05 0.99,85.04 4.46,79.04 11.39,79.04 14.86,85.04 "/>
+    </g>
+    <g>
+     <line class="fil0 str0" x1="11.39" y1="79.04" x2="14.86" y2= "73.04" />
+    </g>
+    <g>
+     <polyline class="fil0 str0" points="21.79,73.04 25.25,79.04 21.79,85.04 "/>
+    </g>
+    <g>
+     <polyline class="fil0 str0" points="35.65,85.04 32.19,79.04 35.65,73.04 42.59,73.04 46.05,79.04 42.59,85.04 "/>
+    </g>
+    <g>
+     <polyline class="fil0 str0" points="56.45,85.04 52.98,79.04 56.45,73.04 63.38,73.04 "/>
+    </g>
+    <g>
+     <polyline class="fil0 str0" points="63.38,85.04 66.85,79.04 73.78,79.04 77.25,85.04 "/>
+    </g>
+    <g>
+     <polyline class="fil0 str0" points="84.18,73.04 87.65,79.04 84.18,85.04 "/>
+    </g>
+    <g>
+     <polyline class="fil0 str0" points="94.58,79.04 98.05,73.04 104.98,73.04 108.44,79.04 104.98,85.04 "/>
+    </g>
+    <g>
+     <polyline class="fil0 str0" points="4.46,103.05 0.99,97.05 4.46,91.05 "/>
+    </g>
+    <g>
+     <line class="fil0 str0" x1="11.39" y1="91.05" x2="14.86" y2= "97.05" />
+    </g>
+    <g>
+     <polyline class="fil0 str0" points="21.79,85.04 25.25,91.05 21.79,97.05 "/>
+    </g>
+    <g>
+     <line class="fil0 str0" x1="25.25" y1="91.05" x2="32.19" y2= "91.05" />
+    </g>
+    <g>
+     <polyline class="fil0 str0" points="42.59,85.04 46.05,91.05 42.59,97.05 "/>
+    </g>
+    <g>
+     <polyline class="fil0 str0" points="46.05,91.05 52.98,91.05 56.45,97.05 "/>
+    </g>
+    <g>
+     <line class="fil0 str0" x1="56.45" y1="85.04" x2="63.38" y2= "85.04" />
+    </g>
+    <g>
+     <polyline class="fil0 str0" points="63.38,97.05 66.85,91.05 73.78,91.05 "/>
+    </g>
+    <g>
+     <polyline class="fil0 str0" points="77.25,85.04 84.18,85.04 87.65,91.05 94.58,91.05 98.05,97.05 "/>
+    </g>
+    <g>
+     <line class="fil0 str0" x1="94.58" y1="91.05" x2="98.05" y2= "85.04" />
+    </g>
+    <g>
+     <polyline class="fil0 str0" points="104.98,85.04 108.44,91.05 104.98,97.05 "/>
+    </g>
+    <g>
+     <polyline class="fil0 str0" points="4.46,115.06 0.99,109.06 4.46,103.05 11.39,103.05 "/>
+    </g>
+    <g>
+     <polyline class="fil0 str0" points="14.86,97.05 21.79,97.05 25.25,103.05 "/>
+    </g>
+    <g>
+     <polyline class="fil0 str0" points="32.19,103.05 35.65,97.05 42.59,97.05 46.05,103.05 42.59,109.06 "/>
+    </g>
+    <g>
+     <line class="fil0 str0" x1="52.98" y1="103.05" x2="56.45" y2= "109.06" />
+    </g>
+    <g>
+     <polyline class="fil0 str0" points="56.45,97.05 63.38,97.05 66.85,103.05 63.38,109.06 "/>
+    </g>
+    <g>
+     <line class="fil0 str0" x1="66.85" y1="103.05" x2="73.78" y2= "103.05" />
+    </g>
+    <g>
+     <polyline class="fil0 str0" points="77.25,97.05 84.18,97.05 87.65,103.05 84.18,109.06 "/>
+    </g>
+    <g>
+     <line class="fil0 str0" x1="87.65" y1="103.05" x2="94.58" y2= "103.05" />
+    </g>
+    <g>
+     <polyline class="fil0 str0" points="104.98,97.05 108.44,103.05 104.98,109.06 "/>
+    </g>
+    <g>
+     <polyline class="fil0 str0" points="4.46,127.07 0.99,121.07 4.46,115.06 "/>
+    </g>
+    <g>
+     <line class="fil0 str0" x1="11.39" y1="115.06" x2="14.86" y2= "121.07" />
+    </g>
+    <g>
+     <polyline class="fil0 str0" points="14.86,109.06 21.79,109.06 25.25,115.06 32.19,115.06 35.65,121.07 "/>
+    </g>
+    <g>
+     <line class="fil0 str0" x1="35.65" y1="109.06" x2="42.59" y2= "109.06" />
+    </g>
+    <g>
+     <polyline class="fil0 str0" points="46.05,115.06 52.98,115.06 56.45,121.07 "/>
+    </g>
+    <g>
+     <line class="fil0 str0" x1="52.98" y1="115.06" x2="56.45" y2= "109.06" />
+    </g>
+    <g>
+     <polyline class="fil0 str0" points="63.38,121.07 66.85,115.06 73.78,115.06 77.25,109.06 84.18,109.06 "/>
+    </g>
+    <g>
+     <line class="fil0 str0" x1="84.18" y1="121.07" x2="87.65" y2= "115.06" />
+    </g>
+    <g>
+     <polyline class="fil0 str0" points="94.58,115.06 98.05,109.06 104.98,109.06 108.44,115.06 104.98,121.07 "/>
+    </g>
+    <g>
+     <polyline class="fil0 str0" points="14.86,121.07 11.39,127.07 4.46,127.07 "/>
+    </g>
+    <g>
+     <line class="fil0 str0" x1="21.79" y1="121.07" x2="14.86" y2= "121.07" />
+    </g>
+    <g>
+     <polyline class="fil0 str0" points="35.65,121.07 32.19,127.07 25.25,127.07 21.79,121.07 "/>
+    </g>
+    <g>
+     <line class="fil0 str0" x1="42.59" y1="121.07" x2="35.65" y2= "121.07" />
+    </g>
+    <g>
+     <polyline class="fil0 str0" points="56.45,121.07 52.98,127.07 46.05,127.07 42.59,121.07 "/>
+    </g>
+    <g>
+     <polyline class="fil0 str0" points="77.25,121.07 73.78,127.07 66.85,127.07 63.38,121.07 "/>
+    </g>
+    <g>
+     <line class="fil0 str0" x1="84.18" y1="121.07" x2="77.25" y2= "121.07" />
+    </g>
+    <g>
+     <polyline class="fil0 str0" points="98.05,121.07 94.58,127.07 87.65,127.07 84.18,121.07 "/>
+    </g>
+    <g>
+     <line class="fil0 str0" x1="104.98" y1="121.07" x2="98.05" y2= "121.07" />
+    </g>
+   </g>
+  </g>
+  <g>
+   <g>
+    <g>
+     <polyline class="fil0 str1" points="4.46,19 0.99,13 4.46,6.99 11.39,6.99 14.86,0.99 21.79,0.99 25.25,6.99 21.79,13 "/>
+    </g>
+    <g>
+     <polyline class="fil0 str1" points="25.25,6.99 32.19,6.99 35.65,0.99 42.59,0.99 46.05,6.99 42.59,13 "/>
+    </g>
+    <g>
+     <polyline class="fil0 str1" points="52.98,6.99 56.45,0.99 63.38,0.99 66.85,6.99 63.38,13 "/>
+    </g>
+    <g>
+     <polyline class="fil0 str1" points="66.85,6.99 73.78,6.99 77.25,0.99 84.18,0.99 87.65,6.99 94.58,6.99 98.05,13 "/>
+    </g>
+    <g>
+     <polyline class="fil0 str1" points="94.58,6.99 98.05,0.99 104.98,0.99 108.44,6.99 104.98,13 "/>
+    </g>
+    <g>
+     <polyline class="fil0 str1" points="4.46,31.01 0.99,25.01 4.46,19 "/>
+    </g>
+    <g>
+     <polyline class="fil0 str1" points="11.39,19 14.86,13 21.79,13 "/>
+    </g>
+    <g>
+     <polyline class="fil0 str1" points="21.79,25.01 25.25,19 32.19,19 35.65,25.01 "/>
+    </g>
+    <g>
+     <line class="fil0 str1" x1="32.19" y1="19" x2="35.65" y2= "13" />
+    </g>
+    <g>
+     <polyline class="fil0 str1" points="42.59,13 46.05,19 42.59,25.01 "/>
+    </g>
+    <g>
+     <polyline class="fil0 str1" points="46.05,19 52.98,19 56.45,25.01 "/>
+    </g>
+    <g>
+     <line class="fil0 str1" x1="52.98" y1="19" x2="56.45" y2= "13" />
+    </g>
+    <g>
+     <polyline class="fil0 str1" points="63.38,13 66.85,19 73.78,19 77.25,25.01 "/>
+    </g>
+    <g>
+     <line class="fil0 str1" x1="73.78" y1="19" x2="77.25" y2= "13" />
+    </g>
+    <g>
+     <polyline class="fil0 str1" points="84.18,13 87.65,19 94.58,19 98.05,25.01 "/>
+    </g>
+    <g>
+     <polyline class="fil0 str1" points="104.98,13 108.44,19 104.98,25.01 "/>
+    </g>
+    <g>
+     <polyline class="fil0 str1" points="4.46,43.02 0.99,37.01 4.46,31.01 11.39,31.01 14.86,25.01 21.79,25.01 "/>
+    </g>
+    <g>
+     <line class="fil0 str1" x1="21.79" y1="37.01" x2="25.25" y2= "31.01" />
+    </g>
+    <g>
+     <line class="fil0 str1" x1="32.19" y1="31.01" x2="35.65" y2= "37.01" />
+    </g>
+    <g>
+     <polyline class="fil0 str1" points="42.59,25.01 46.05,31.01 42.59,37.01 "/>
+    </g>
+    <g>
+     <line class="fil0 str1" x1="52.98" y1="31.01" x2="56.45" y2= "37.01" />
+    </g>
+    <g>
+     <polyline class="fil0 str1" points="56.45,25.01 63.38,25.01 66.85,31.01 63.38,37.01 "/>
+    </g>
+    <g>
+     <polyline class="fil0 str1" points="73.78,31.01 77.25,25.01 84.18,25.01 87.65,31.01 94.58,31.01 98.05,37.01 "/>
+    </g>
+    <g>
+     <polyline class="fil0 str1" points="98.05,25.01 104.98,25.01 108.44,31.01 104.98,37.01 "/>
+    </g>
+    <g>
+     <polyline class="fil0 str1" points="4.46,55.02 0.99,49.02 4.46,43.02 11.39,43.02 14.86,49.02 "/>
+    </g>
+    <g>
+     <polyline class="fil0 str1" points="14.86,37.01 21.79,37.01 25.25,43.02 32.19,43.02 35.65,49.02 "/>
+    </g>
+    <g>
+     <line class="fil0 str1" x1="35.65" y1="37.01" x2="42.59" y2= "37.01" />
+    </g>
+    <g>
+     <polyline class="fil0 str1" points="42.59,49.02 46.05,43.02 52.98,43.02 56.45,49.02 "/>
+    </g>
+    <g>
+     <polyline class="fil0 str1" points="52.98,43.02 56.45,37.01 63.38,37.01 66.85,43.02 73.78,43.02 77.25,37.01 84.18,37.01 "/>
+    </g>
+    <g>
+     <polyline class="fil0 str1" points="84.18,49.02 87.65,43.02 94.58,43.02 98.05,37.01 "/>
+    </g>
+    <g>
+     <polyline class="fil0 str1" points="104.98,37.01 108.44,43.02 104.98,49.02 "/>
+    </g>
+    <g>
+     <polyline class="fil0 str1" points="4.46,67.03 0.99,61.03 4.46,55.02 "/>
+    </g>
+    <g>
+     <polyline class="fil0 str1" points="14.86,61.03 11.39,55.02 14.86,49.02 21.79,49.02 "/>
+    </g>
+    <g>
+     <polyline class="fil0 str1" points="25.25,55.02 32.19,55.02 35.65,61.03 "/>
+    </g>
+    <g>
+     <polyline class="fil0 str1" points="32.19,55.02 35.65,49.02 42.59,49.02 "/>
+    </g>
+    <g>
+     <polyline class="fil0 str1" points="46.05,55.02 52.98,55.02 56.45,61.03 "/>
+    </g>
+    <g>
+     <polyline class="fil0 str1" points="63.38,49.02 66.85,55.02 63.38,61.03 "/>
+    </g>
+    <g>
+     <polyline class="fil0 str1" points="66.85,55.02 73.78,55.02 77.25,49.02 84.18,49.02 87.65,55.02 "/>
+    </g>
+    <g>
+     <polyline class="fil0 str1" points="98.05,61.03 94.58,55.02 98.05,49.02 "/>
+    </g>
+    <g>
+     <polyline class="fil0 str1" points="104.98,49.02 108.44,55.02 104.98,61.03 "/>
+    </g>
+    <g>
+     <polyline class="fil0 str1" points="4.46,79.04 0.99,73.04 4.46,67.03 "/>
+    </g>
+    <g>
+     <polyline class="fil0 str1" points="11.39,67.03 14.86,61.03 21.79,61.03 25.25,67.03 21.79,73.04 "/>
+    </g>
+    <g>
+     <line class="fil0 str1" x1="25.25" y1="67.03" x2="32.19" y2= "67.03" />
+    </g>
+    <g>
+     <polyline class="fil0 str1" points="35.65,61.03 42.59,61.03 46.05,67.03 42.59,73.04 "/>
+    </g>
+    <g>
+     <line class="fil0 str1" x1="46.05" y1="67.03" x2="52.98" y2= "67.03" />
+    </g>
+    <g>
+     <polyline class="fil0 str1" points="56.45,61.03 63.38,61.03 66.85,67.03 63.38,73.04 "/>
+    </g>
+    <g>
+     <polyline class="fil0 str1" points="66.85,67.03 73.78,67.03 77.25,73.04 "/>
+    </g>
+    <g>
+     <polyline class="fil0 str1" points="73.78,67.03 77.25,61.03 84.18,61.03 "/>
+    </g>
+    <g>
+     <polyline class="fil0 str1" points="84.18,73.04 87.65,67.03 94.58,67.03 98.05,61.03 "/>
+    </g>
+    <g>
+     <polyline class="fil0 str1" points="104.98,61.03 108.44,67.03 104.98,73.04 "/>
+    </g>
+    <g>
+     <polyline class="fil0 str1" points="4.46,91.05 0.99,85.04 4.46,79.04 11.39,79.04 14.86,85.04 "/>
+    </g>
+    <g>
+     <line class="fil0 str1" x1="11.39" y1="79.04" x2="14.86" y2= "73.04" />
+    </g>
+    <g>
+     <polyline class="fil0 str1" points="21.79,73.04 25.25,79.04 21.79,85.04 "/>
+    </g>
+    <g>
+     <polyline class="fil0 str1" points="35.65,85.04 32.19,79.04 35.65,73.04 42.59,73.04 46.05,79.04 42.59,85.04 "/>
+    </g>
+    <g>
+     <polyline class="fil0 str1" points="56.45,85.04 52.98,79.04 56.45,73.04 63.38,73.04 "/>
+    </g>
+    <g>
+     <polyline class="fil0 str1" points="63.38,85.04 66.85,79.04 73.78,79.04 77.25,85.04 "/>
+    </g>
+    <g>
+     <polyline class="fil0 str1" points="84.18,73.04 87.65,79.04 84.18,85.04 "/>
+    </g>
+    <g>
+     <polyline class="fil0 str1" points="94.58,79.04 98.05,73.04 104.98,73.04 108.44,79.04 104.98,85.04 "/>
+    </g>
+    <g>
+     <polyline class="fil0 str1" points="4.46,103.05 0.99,97.05 4.46,91.05 "/>
+    </g>
+    <g>
+     <line class="fil0 str1" x1="11.39" y1="91.05" x2="14.86" y2= "97.05" />
+    </g>
+    <g>
+     <polyline class="fil0 str1" points="21.79,85.04 25.25,91.05 21.79,97.05 "/>
+    </g>
+    <g>
+     <line class="fil0 str1" x1="25.25" y1="91.05" x2="32.19" y2= "91.05" />
+    </g>
+    <g>
+     <polyline class="fil0 str1" points="42.59,85.04 46.05,91.05 42.59,97.05 "/>
+    </g>
+    <g>
+     <polyline class="fil0 str1" points="46.05,91.05 52.98,91.05 56.45,97.05 "/>
+    </g>
+    <g>
+     <line class="fil0 str1" x1="56.45" y1="85.04" x2="63.38" y2= "85.04" />
+    </g>
+    <g>
+     <polyline class="fil0 str1" points="63.38,97.05 66.85,91.05 73.78,91.05 "/>
+    </g>
+    <g>
+     <polyline class="fil0 str1" points="77.25,85.04 84.18,85.04 87.65,91.05 94.58,91.05 98.05,97.05 "/>
+    </g>
+    <g>
+     <line class="fil0 str1" x1="94.58" y1="91.05" x2="98.05" y2= "85.04" />
+    </g>
+    <g>
+     <polyline class="fil0 str1" points="104.98,85.04 108.44,91.05 104.98,97.05 "/>
+    </g>
+    <g>
+     <polyline class="fil0 str1" points="4.46,115.06 0.99,109.06 4.46,103.05 11.39,103.05 "/>
+    </g>
+    <g>
+     <polyline class="fil0 str1" points="14.86,97.05 21.79,97.05 25.25,103.05 "/>
+    </g>
+    <g>
+     <polyline class="fil0 str1" points="32.19,103.05 35.65,97.05 42.59,97.05 46.05,103.05 42.59,109.06 "/>
+    </g>
+    <g>
+     <line class="fil0 str1" x1="52.98" y1="103.05" x2="56.45" y2= "109.06" />
+    </g>
+    <g>
+     <polyline class="fil0 str1" points="56.45,97.05 63.38,97.05 66.85,103.05 63.38,109.06 "/>
+    </g>
+    <g>
+     <line class="fil0 str1" x1="66.85" y1="103.05" x2="73.78" y2= "103.05" />
+    </g>
+    <g>
+     <polyline class="fil0 str1" points="77.25,97.05 84.18,97.05 87.65,103.05 84.18,109.06 "/>
+    </g>
+    <g>
+     <line class="fil0 str1" x1="87.65" y1="103.05" x2="94.58" y2= "103.05" />
+    </g>
+    <g>
+     <polyline class="fil0 str1" points="104.98,97.05 108.44,103.05 104.98,109.06 "/>
+    </g>
+    <g>
+     <polyline class="fil0 str1" points="4.46,127.07 0.99,121.07 4.46,115.06 "/>
+    </g>
+    <g>
+     <line class="fil0 str1" x1="11.39" y1="115.06" x2="14.86" y2= "121.07" />
+    </g>
+    <g>
+     <polyline class="fil0 str1" points="14.86,109.06 21.79,109.06 25.25,115.06 32.19,115.06 35.65,121.07 "/>
+    </g>
+    <g>
+     <line class="fil0 str1" x1="35.65" y1="109.06" x2="42.59" y2= "109.06" />
+    </g>
+    <g>
+     <polyline class="fil0 str1" points="46.05,115.06 52.98,115.06 56.45,121.07 "/>
+    </g>
+    <g>
+     <line class="fil0 str1" x1="52.98" y1="115.06" x2="56.45" y2= "109.06" />
+    </g>
+    <g>
+     <polyline class="fil0 str1" points="63.38,121.07 66.85,115.06 73.78,115.06 77.25,109.06 84.18,109.06 "/>
+    </g>
+    <g>
+     <line class="fil0 str1" x1="84.18" y1="121.07" x2="87.65" y2= "115.06" />
+    </g>
+    <g>
+     <polyline class="fil0 str1" points="94.58,115.06 98.05,109.06 104.98,109.06 108.44,115.06 104.98,121.07 "/>
+    </g>
+    <g>
+     <polyline class="fil0 str1" points="14.86,121.07 11.39,127.07 4.46,127.07 "/>
+    </g>
+    <g>
+     <line class="fil0 str1" x1="21.79" y1="121.07" x2="14.86" y2= "121.07" />
+    </g>
+    <g>
+     <polyline class="fil0 str1" points="35.65,121.07 32.19,127.07 25.25,127.07 21.79,121.07 "/>
+    </g>
+    <g>
+     <line class="fil0 str1" x1="42.59" y1="121.07" x2="35.65" y2= "121.07" />
+    </g>
+    <g>
+     <polyline class="fil0 str1" points="56.45,121.07 52.98,127.07 46.05,127.07 42.59,121.07 "/>
+    </g>
+    <g>
+     <polyline class="fil0 str1" points="77.25,121.07 73.78,127.07 66.85,127.07 63.38,121.07 "/>
+    </g>
+    <g>
+     <line class="fil0 str1" x1="84.18" y1="121.07" x2="77.25" y2= "121.07" />
+    </g>
+    <g>
+     <polyline class="fil0 str1" points="98.05,121.07 94.58,127.07 87.65,127.07 84.18,121.07 "/>
+    </g>
+    <g>
+     <line class="fil0 str1" x1="104.98" y1="121.07" x2="98.05" y2= "121.07" />
+    </g>
+   </g>
+  </g>
+  <polyline class="fil0 str2" points="60.17,120.66 60.17,114.66 80.97,102.65 70.57,96.65 80.97,90.64 70.57,84.64 60.17,90.64 49.77,84.64 49.77,72.63 60.17,66.63 39.37,54.62 49.77,48.61 60.17,54.62 60.17,42.61 70.57,48.61 91.37,36.61 80.97,30.6 70.57,36.61 70.57,24.6 60.17,18.6 60.17,6.59 49.77,12.59 49.77,6.59 "/>
+ </g>
+</svg>

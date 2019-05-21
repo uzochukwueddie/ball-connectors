@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Wall
+  - CantDraw
+  - Background
+  - Line
+  - Quad
+  - Ball
+  - Over Panel
+  - Complete Panel
+  - Top Panel
+  - Maze
+  - Levels
+  - Hint
+  - Msg Panel
+  - LineCamera
+  - Ball_1
+  - Fireworks
+  - Pencil
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Drawing
+  - OnDraw
+  - Wall
+  - BG
+  - Ball
+  - Maze
+  - Particle
+  - Pencil
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: UILayer
+    uniqueID: 15532827
+    locked: 0

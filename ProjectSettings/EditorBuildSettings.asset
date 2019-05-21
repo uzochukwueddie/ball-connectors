@@ -1,0 +1,119 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Main Menu Scene.unity
+    guid: d5cfa2db5203d8e4da42de9cb90a5eda
+  - enabled: 1
+    path: Assets/Scenes/Select Type.unity
+    guid: 13def754c3391814980be41b4482285e
+  - enabled: 1
+    path: Assets/Scenes/Shape Types/Rectangle.unity
+    guid: 4cc2e93165f11ba4eb308dd829efea40
+  - enabled: 1
+    path: Assets/Scenes/Shape Types/Circle.unity
+    guid: 2a431ef75d4072b4e8b97c4ba79001fc
+  - enabled: 1
+    path: Assets/Scenes/Shape Types/Hexagon.unity
+    guid: c9ab62bf42814b84cb0750220360cae1
+  - enabled: 1
+    path: Assets/Scenes/Levels/Rectangular/10x10/Level01.unity
+    guid: 221d562946c1dee47960b20dc4670ed1
+  - enabled: 1
+    path: Assets/Scenes/Levels/Rectangular/10x10/Level02.unity
+    guid: e96cd64465217634282aa62959df1e29
+  - enabled: 1
+    path: Assets/Scenes/Levels/Rectangular/10x10/Level03.unity
+    guid: 483dfb678588d744bb354c97a0ba3292
+  - enabled: 1
+    path: Assets/Scenes/Levels/Rectangular/10x10/Level04.unity
+    guid: ea43b637a3848ea429c20bbbfc6d2536
+  - enabled: 1
+    path: Assets/Scenes/Levels/Rectangular/10x10/Level05.unity
+    guid: a651930270082b84cab657e2362dad60
+  - enabled: 1
+    path: Assets/Scenes/Levels/Rectangular/10x10/Level06.unity
+    guid: 1039987067a07df468ebc50502123d2f
+  - enabled: 1
+    path: Assets/Scenes/Levels/Rectangular/10x10/Level07.unity
+    guid: fdb28c7b91cb4504092602d3c5d3bae2
+  - enabled: 1
+    path: Assets/Scenes/Levels/Rectangular/10x10/Level08.unity
+    guid: 1421988bca0c00646853d8ec7803c924
+  - enabled: 1
+    path: Assets/Scenes/Levels/Rectangular/10x10/Level09.unity
+    guid: 96e87e54800864241aa832325db19841
+  - enabled: 1
+    path: Assets/Scenes/Levels/Rectangular/10x10/Level10.unity
+    guid: ede82fad652c4324397436fc3dcf9a99
+  - enabled: 1
+    path: Assets/Scenes/Levels/Circular/10x10/Level01.unity
+    guid: 4764779c38c06d844a9dd1bcf916d9f7
+  - enabled: 1
+    path: Assets/Scenes/Levels/Circular/10x10/Level02.unity
+    guid: b5dd26d034a36964981f81f0effd1a0a
+  - enabled: 1
+    path: Assets/Scenes/Levels/Circular/10x10/Level03.unity
+    guid: 84b8cd5972496a646809fc10faed5425
+  - enabled: 1
+    path: Assets/Scenes/Levels/Circular/10x10/Level04.unity
+    guid: bdab95687eea9594aa590b31aee699a5
+  - enabled: 1
+    path: Assets/Scenes/Levels/Circular/10x10/Level05.unity
+    guid: 48e4eb6cbb1b7694dbe4253346c2ce05
+  - enabled: 1
+    path: Assets/Scenes/Levels/Circular/10x10/Level06.unity
+    guid: a13773ec66cb18a4e8144807214382fa
+  - enabled: 1
+    path: Assets/Scenes/Levels/Circular/10x10/Level07.unity
+    guid: 09ee26ee10721de459e31639602ebc31
+  - enabled: 1
+    path: Assets/Scenes/Levels/Circular/10x10/Level08.unity
+    guid: 1be29de008d398d4c966fbc748f74880
+  - enabled: 1
+    path: Assets/Scenes/Levels/Circular/10x10/Level09.unity
+    guid: 846396ca277c7734c9b13167b53b4a4e
+  - enabled: 1
+    path: Assets/Scenes/Levels/Circular/10x10/Level10.unity
+    guid: 3f1ef5507e0a20a4886d059946741cfa
+  - enabled: 1
+    path: Assets/Scenes/Levels/Hexagon/Level01.unity
+    guid: 1da7292895911804b824318f2f73633d
+  - enabled: 1
+    path: Assets/Scenes/Levels/Hexagon/Level02.unity
+    guid: 10dbefb64995f4640bebd3b5f467f701
+  - enabled: 1
+    path: Assets/Scenes/Levels/Hexagon/Level03.unity
+    guid: 8b2a2c3f329d12a42830313427e57fb3
+  - enabled: 1
+    path: Assets/Scenes/Levels/Hexagon/Level04.unity
+    guid: 13db846eef646c54d8574f987140d0c5
+  - enabled: 1
+    path: Assets/Scenes/Levels/Hexagon/Level05.unity
+    guid: e87fb45e884ae2947b091d4fb18204c0
+  - enabled: 1
+    path: Assets/Scenes/Levels/Hexagon/Level06.unity
+    guid: 4f1a41325150e26489211863910ce8f9
+  - enabled: 1
+    path: Assets/Scenes/Levels/Hexagon/Level07.unity
+    guid: 17376dd4a6478da4b90cbdfc23fa3034
+  - enabled: 1
+    path: Assets/Scenes/Levels/Hexagon/Level08.unity
+    guid: f323b7398c13a7949b81fab5b70d2bf5
+  - enabled: 1
+    path: Assets/Scenes/Levels/Hexagon/Level09.unity
+    guid: 4aec2f302ee6a8d4588f74cc7c748f5e
+  - enabled: 1
+    path: Assets/Scenes/Levels/Hexagon/Level10.unity
+    guid: a72a361c9e031ba4ba123be32d19194a
+  - enabled: 1
+    path: Assets/Scenes/Other Scenes/Purchase Screen.unity
+    guid: e3dc6420f09fb2b4d9d9bf23963ab0aa
+  - enabled: 1
+    path: Assets/Scenes/Other Scenes/Settings.unity
+    guid: 795788d1cf7a9f946954c9aebae242d5
+  m_configObjects: {}
