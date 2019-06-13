@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 19810686}
   - component: {fileID: 19924570}
   m_Layer: 14
-  m_Name: FireworkPurple
+  m_Name: FireExplosion
   m_TagString: Fireworks
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -26,7 +26,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 144688}
   m_LocalRotation: {x: -0.7071068, y: -0, z: -0, w: 0.7071068}
-  m_LocalPosition: {x: -0.21, y: -0.49, z: -0}
+  m_LocalPosition: {x: 0, y: 0, z: -0}
   m_LocalScale: {x: 1.6, y: 1.6000019, z: 1.6000019}
   m_Children:
   - {fileID: 450864}

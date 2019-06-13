@@ -43,7 +43,7 @@ public class SettingsPage : MonoBehaviour {
 	
 	public void LeaderBoard() {
 		ButtonPressedSound.instance.PlayButtonSound();
-        GameManager.Instance.ShowLeaderboardUI();
+        // GameManager.Instance.ShowLeaderboardUI();
     }
 
 	public void ShoppingPage() {

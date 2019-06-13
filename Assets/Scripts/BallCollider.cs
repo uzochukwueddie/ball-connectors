@@ -114,9 +114,16 @@ public class BallCollider : MonoBehaviour
             if (levelCompleted == false)
             {
                 GamePlay.instance.IncrementScore();
-                Destroy(other.gameObject);
+                PlayFireworksAudio();
             }
-            Destroy(other.gameObject);
+            PlayFireworksAudio();
+
+            foreach (ContactPoint2D missileHit in other.contacts)
+            {
+                Vector2 hitPoint = missileHit.point;
+                fireworks.transform.position = new Vector2(hitPoint.x, hitPoint.y);
+                fireworks.Emit(1000);
+            }
             numberOfCircles++;
         }
     }

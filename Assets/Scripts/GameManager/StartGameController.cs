@@ -36,7 +36,7 @@ public class StartGameController : MonoBehaviour
 
     public void LeaderBoard() {
         ButtonPressedSound.instance.PlayButtonSound();
-        GameManager.Instance.ShowLeaderboardUI();
+        // GameManager.Instance.ShowLeaderboardUI();
     }
 
     public void Settings() {

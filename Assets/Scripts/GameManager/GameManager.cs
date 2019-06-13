@@ -1,8 +1,8 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-using GooglePlayGames;
-using GooglePlayGames.BasicApi;
+// using GooglePlayGames;
+// using GooglePlayGames.BasicApi;
 
 public class GameManager : MonoBehaviour
 {
@@ -32,23 +32,23 @@ public class GameManager : MonoBehaviour
     }
 
     void Start() {
-        PlayGamesClientConfiguration config = new PlayGamesClientConfiguration.Builder().Build();
-        PlayGamesPlatform.InitializeInstance(config);
-        PlayGamesPlatform.Activate();
-        SignIn();
+        // PlayGamesClientConfiguration config = new PlayGamesClientConfiguration.Builder().Build();
+        // PlayGamesPlatform.InitializeInstance(config);
+        // PlayGamesPlatform.Activate();
+        // SignIn();
     }
 
-    void SignIn()
-    {
-        Social.localUser.Authenticate(success => { });
-    }
+    // void SignIn()
+    // {
+    //     Social.localUser.Authenticate(success => { });
+    // }
 
-    public void AddScoreToLeaderboard(string leaderboardId, long score)
-    {
-        Social.ReportScore(score, leaderboardId, success => { });
-    }
+    // public void AddScoreToLeaderboard(string leaderboardId, long score)
+    // {
+    //     Social.ReportScore(score, leaderboardId, success => { });
+    // }
 
-    public void ShowLeaderboardUI() {
-        Social.ShowLeaderboardUI();
-    }
+    // public void ShowLeaderboardUI() {
+    //     Social.ShowLeaderboardUI();
+    // }
 }

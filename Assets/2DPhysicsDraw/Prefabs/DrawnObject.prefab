@@ -16,6 +16,7 @@ GameObject:
   - component: {fileID: 114061039117454080}
   - component: {fileID: 114891929713557062}
   - component: {fileID: 82070477324589900}
+  - component: {fileID: 2129964173302974902}
   m_Layer: 9
   m_Name: DrawnObject
   m_TagString: Line
@@ -234,6 +235,7 @@ MonoBehaviour:
   numberOfCircles: 0
   levelCompleted: 0
   timer: 0
+  stopLine: 0
 --- !u!82 &82070477324589900
 AudioSource:
   m_ObjectHideFlags: 0
@@ -330,3 +332,19 @@ AudioSource:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
+--- !u!114 &2129964173302974902
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1892999249134902}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a165faaa2156f7a47acf2f01cbe74bac, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  numberOfCircles: 0
+  levelCompleted: 0
+  timer: 0
+  stopLine: 0

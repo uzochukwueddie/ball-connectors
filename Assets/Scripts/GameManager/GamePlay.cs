@@ -85,12 +85,16 @@ public class GamePlay : MonoBehaviour
 
     private Animator anim;
 
+    // private Image hintImage;
+    // public Sprite hintSpriteRed, hintSpriteYellow;
+
     void Awake()
     {
         MakeInstance();
         scoreText = GameObject.Find("Score").GetComponent<Text>();
         hintText = GameObject.Find("Hint").GetComponent<Text>();
         hintButton = GameObject.FindGameObjectWithTag("Hint").GetComponent<Button>();
+        // hintImage = GameObject.FindGameObjectWithTag("Hint").GetComponent<Image>();
         counterText = GameObject.Find("count").GetComponent<Text>();
         hasCollided = true;
         gameOver.SetActive(false);
@@ -144,6 +148,10 @@ public class GamePlay : MonoBehaviour
         if (counterText.text == "0") {
             counterText.text = "Start";
         }
+
+        // if (hint <= 0) {
+        //     hintImage.sprite = hintSpriteRed;
+        // }
     }
 
     void MakeInstance()
@@ -205,7 +213,7 @@ public class GamePlay : MonoBehaviour
 
     public void GameOver()
     {
-        // StartCoroutine(ShowGameOver());
+        StartCoroutine(ShowGameOver());
     }
 
     public void RestartGame()
@@ -326,6 +334,17 @@ public class GamePlay : MonoBehaviour
         Application.Quit();
     }
 
+    // public void AddMoreHint(int value) {
+    //     hint += value;
+    //     hintImage.sprite = hintSpriteYellow;
+    //     if (hintText != null) {
+    //         hintText.text = hint.ToString();
+    //         PlayerPrefs.SetInt("hintValue", hint);
+    //     } else {
+    //         PlayerPrefs.SetInt("hintValue", hint);
+    //     }
+    // }
+
     void CountDown() {
         if (countTime == 0) {
             CancelInvoke("CountDown");
@@ -379,13 +398,12 @@ public class GamePlay : MonoBehaviour
 
     IEnumerator ShowLevelComplete()
     {
-        // Add sound here
         yield return new WaitForSeconds(1f);
         gameComplete.SetActive(true);
         gameOver.SetActive(false);
         topPanel.SetActive(false);
         levelCompleteScoreText.text = score.ToString();
-        GameManager.Instance.AddScoreToLeaderboard(GPGSIds.leaderboard_players_score, score);
+        // GameManager.Instance.AddScoreToLeaderboard(GPGSIds.leaderboard_players_score, score);
         gameIsOver = true;
         gameIsComplete = true;
         mazeSolution.SetActive(false);

@@ -22,6 +22,7 @@ TagManager:
   - Ball_1
   - Fireworks
   - Pencil
+  - FireworksExplosion
   layers:
   - Default
   - TransparentFX
